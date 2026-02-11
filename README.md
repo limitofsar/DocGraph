@@ -2,7 +2,7 @@
 
 **DocGraph** — проект по оценке релевантности документов к запросам и построению графовой структуры документов для поиска и анализа.
 
-[Посмотреть пример работы графа (видео на Google Диске)](https://drive.google.com/drive/folders/1LE3-t_APSvpjKERk8v78IgYgDutWp9lX?hl=ru)
+[Посмотреть пример работы графа (видео на Google Диске)](https://drive.google.com/file/d/1TyiZ3Pnt5ttZT7XjN7gS-5rfI-jynyl0/view?usp=drive_link)
 
 ## Структура графа документов
 
